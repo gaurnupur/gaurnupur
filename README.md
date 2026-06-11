@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Fulara</h1>
-<h3 align="center">Full Stack Developer | MERN - JAVA - NEXTJS  | 1000+ DSA ⭐</h3>
+<h1 align="center">Hi 👋, I'm Nupur Gaur</h1>
+<h3 align="center">Full Stack Developer | MERN - NEXTJS  </h3>
 
 <p align="center">
-  <a href="mailto:dheerajfulara0207@gmail.com">
+  <a href="mailto:gaurnupur098@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DHEERAJFULARA0207@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dheeraj-fulara/">
+  <a href="https://www.linkedin.com/in/nupur-gaur-173560281/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/DheerajFulara">
+  <a href="https://github.com/gaurnupur">
     <img src="https://img.shields.io/badge/GitHub-DheerajFulara-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1OJipvRCrFg-Y1GpmJ8-Xlnryps3oN9Jn/view?usp=drive_link">
@@ -20,10 +20,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 CSE (AI & ML) student at **GL Bajaj Institute of Technology & Management** (2022–2026)  
+- 🎓 CSE  student at **GL Bajaj Institute of Technology & Management** (2022–2026)  
 - ⭐ CGPA - 8 
-- 💼 Full Stack Developer: **Next.js, MERN, Java**  
-- 📫 Reach me at **dheerajfulara0207@gmail.com**
+- 💼 Full Stack Developer: **Next.js, MERN**  
+- 📫 Reach me at **gaurnupur098@gmail.com**
 
 ---
 
@@ -89,12 +89,7 @@
   <a href="https://leetcode.com/u/dheerajfulara/">
     <img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved%20(Max%201860)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/dheerajfulara/">
-    <img src="https://img.shields.io/badge/GFG-185%2B%20Solved%20(Rating%201534)-14D964?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/dheeraj_fulara">
-    <img src="https://img.shields.io/badge/CodeChef-Rating%201340-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
@@ -102,8 +97,7 @@
 ## 🏆 Achievements
 
 - 🥇 **5th Place** – Google Developer HackSprint (GDSC GLBITM)  
-- 📊 Achieved **546/37,036** rank in LeetCode Weekly Contest 460  
-- 🏅 Earned **Knight Badge** on LeetCode (Top **5.54% globally**)  
-- 🎯 Solved **1000+ DSA problems** across coding platforms  
+
+- 🎯 Solved **400+ DSA problems** across coding platforms  
 
 > 🚀 *Let's build something amazing together!*
