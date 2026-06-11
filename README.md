@@ -1,29 +1,109 @@
-<h1 align="center">Hi 👋, Nupur gaur</h1>
-💫 About Me:
-🔭 I’m currently working on<br>→ Full stack development and AI implementations <br><br>👯 I’m looking to collaborate on<br>→ AI, ML & open-source projects (especially beginner-friendly AI tools)<br><br>🤝 I’m looking for help with<br>→ , deployment & real-world AI use cases<br><br>🌱 I’m currently learning<br>→ Machine Learning, AI & Web development <br><br>💬 Ask me about<br>→ MERN STACK Web development <br><br>⚡ Fun fact<br>→ I don’t just learn AI, I build with it 🤖🚀<br>
+<h1 align="center">Hi 👋, I'm Dheeraj Fulara</h1>
+<h3 align="center">Full Stack Developer | MERN - JAVA - NEXTJS  | 1000+ DSA ⭐</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nupur-gaur-173560281/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurnupur098@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Docker](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Riyajha182005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajha182005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Riyajha182005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Riyajha182005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:dheerajfulara0207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-DHEERAJFULARA0207@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dheeraj-fulara/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DheerajFulara">
+    <img src="https://img.shields.io/badge/GitHub-DheerajFulara-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1OJipvRCrFg-Y1GpmJ8-Xlnryps3oN9Jn/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-Download-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Riyajha182005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
 
-> "Consistency and depth in fundamentals create long-term success."
+- 🎓 CSE (AI & ML) student at **GL Bajaj Institute of Technology & Management** (2022–2026)  
+- ⭐ CGPA - 8 
+- 💼 Full Stack Developer: **Next.js, MERN, Java**  
+- 📫 Reach me at **dheerajfulara0207@gmail.com**
+
+---
+
+## 🚀 Tech Stack (Badges Only)
+
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
+
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+  <!-- Auth -->
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+ 
+
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| **MediNow** | Full-stack healthcare platform with booking + video consultation & dashboards | Next.js, PostgreSQL (Neon), Prisma, Clerk, Tailwind, Shadcn, Vonage | [🌐 Live](https://medi-now.vercel.app/) • [💻 Code](https://github.com/DheerajFulara/MediNow) |
+| **ChatMate** | Real-time chat app with JWT auth, online status, Zustand | React, Tailwind, Zustand, Express, Socket.io, MongoDB | [🌐 Live](https://chat-app-ig1h.onrender.com) • [💻 Code](https://github.com/DheerajFulara/Chat-App) |
+| **EatConnect** | Food donation & community support platform | Express, EJS, MongoDB, Bootstrap | [🌐 Live](https://eat-connect.vercel.app/) • [💻 Code](https://github.com/DheerajFulara/EatConnect) |
+| **SlideShot** | Extracts presentation frames from YouTube videos & generates PDFs | Python, OpenCV, Tkinter | [💻 Code](https://github.com/DheerajFulara/SlideShot) |
+
+---
+
+## 💯 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/dheerajfulara/">
+    <img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved%20(Max%201860)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dheerajfulara/">
+    <img src="https://img.shields.io/badge/GFG-185%2B%20Solved%20(Rating%201534)-14D964?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/dheeraj_fulara">
+    <img src="https://img.shields.io/badge/CodeChef-Rating%201340-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **5th Place** – Google Developer HackSprint (GDSC GLBITM)  
+- 📊 Achieved **546/37,036** rank in LeetCode Weekly Contest 460  
+- 🏅 Earned **Knight Badge** on LeetCode (Top **5.54% globally**)  
+- 🎯 Solved **1000+ DSA problems** across coding platforms  
+
+> 🚀 *Let's build something amazing together!*
