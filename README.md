@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Nupur gaur</h1>
 💫 About Me:
-🔭 I’m currently working on<br>→ Machine Learning projects & real-world AI implementations<br><br>👯 I’m looking to collaborate on<br>→ AI, ML & open-source projects (especially beginner-friendly AI tools)<br><br>🤝 I’m looking for help with<br>→ Scaling ML models, deployment & real-world AI use cases<br><br>🌱 I’m currently learning<br>→ Machine Learning, AI workflows & LangChain<br><br>💬 Ask me about<br>→ Python, beginner ML, AI tools & building practical projects<br><br>⚡ Fun fact<br>→ I don’t just learn AI, I build with it 🤖🚀<br>
+🔭 I’m currently working on<br>→ Full stack development <br><br>👯 I’m looking to collaborate on<br>→ AI, ML & open-source projects (especially beginner-friendly AI tools)<br><br>🤝 I’m looking for help with<br>→ , deployment & real-world AI use cases<br><br>🌱 I’m currently learning<br>→ Machine Learning, AI workflows & LangChain<br><br>💬 Ask me about<br>→ Python, beginner ML, AI tools & building practical projects<br><br>⚡ Fun fact<br>→ I don’t just learn AI, I build with it 🤖🚀<br>
 
 
 ## 🌐 Socials:
