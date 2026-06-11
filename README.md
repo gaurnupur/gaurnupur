@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/gaurnupur">
-    <img src="https://img.shields.io/badge/GitHub-DheerajFular-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-gaurnupur-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1OJipvRCrFg-Y1GpmJ8-Xlnryps3oN9Jn/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" />
