@@ -85,7 +85,7 @@
 ## 💯 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/dheerajfulara/">
+  <a href="https://leetcode.com/u/nupurgaur/">
     <img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved%20(Max%201860)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
  
